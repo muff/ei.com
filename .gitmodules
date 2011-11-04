@@ -1,0 +1,6 @@
+[submodule "libs/jquery"]
+	path = libs/jquery
+	url = git://github.com/jquery/jquery.git
+[submodule "libs/bootstrap"]
+	path = libs/bootstrap
+	url = git://github.com/twitter/bootstrap.git
